@@ -9,7 +9,7 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
   <li>google colab(para executar comandos python)</li>
 </ul>
 <p>🔗<a href="https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv">Link da base de dados</a></p>
-  
+<hr>  
 <strong>Demanda de ML</strong><br>
 🔹 Análise exploratória de dados
    <ul>
@@ -36,6 +36,7 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
   <ul>
     <li>Salvar o dataframe completo após todas as modificações</li>
   </ul>
+  <hr>
 <strong>Demanda do Dev</strong><br>
 🔹 Criar colunas numéricas
   <ul>
