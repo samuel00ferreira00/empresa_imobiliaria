@@ -54,5 +54,5 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
   </ul>
  
   <h3> 📫 Onde me encontrar </h3>
-  🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario) 
+  🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)<br>
   📧 **E-mail:** samuelferreira1ssf1@icloud.com 
