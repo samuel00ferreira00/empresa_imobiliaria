@@ -1,9 +1,9 @@
-#📌 Imobiliária! 
+<h1>📌 Imobiliária! </h1>
 🔹 <p>Sou cientista de dados e estou trabalhando em um projeto pessoal na área imobiliária. Minha principal função é desenvolver soluções que atendam às demandas de Machine Learning e desenvolvimento.
 A base de dados que vou utilizar para desenvolver o projeto é uma base com dados de diferentes tipos de imóveis do Rio de Janeiro, como apartamento, casas, comércios, dentre outros.
 Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condomínio, IPTU e também suas características, como: quantidade de quartos, suítes, vagas de garagem, etc.<p/>
 
-##🚀 Tecnologias utilizadas
+<h2>🚀 Tecnologias utilizadas</h2>
 <ul>
   <li>Python</li>
   <li>google colab(para executar comandos python)</li>
@@ -52,6 +52,6 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
     **Possui_suite:** essa deve ser uma coluna que informe apenas se o imóvel possui ou não suítes, sem se importar com a quantidade.</p>
   </ul>
  
-  ## 📫 Onde me encontrar 
+  <h3> 📫 Onde me encontrar </h3>
   🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario) 
   📧 **E-mail:** samuelferreira1ssf1@icloud.com 
