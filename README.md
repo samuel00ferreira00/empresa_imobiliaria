@@ -52,7 +52,7 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
     <p><strong>Descrição:</strong>strong> essa coluna deve possuir uma sumarização das principais informações dos imóveis que serão apresentadas no site: tipo de imóvel, bairro, quantidade de quartos e vagas de garagem;
     <strong>Possui_suite:</strong> essa deve ser uma coluna que informe apenas se o imóvel possui ou não suítes, sem se importar com a quantidade.</p>
   </ul>
- 
+ <br>
   <h3> 📫 Onde me encontrar </h3>
   🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)<br>
-  📧 **E-mail:** samuelferreira1ssf1@icloud.com 
+  📧 <strong>E-mail:</strong> samuelferreira1ssf1@icloud.com 
