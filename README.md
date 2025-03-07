@@ -6,7 +6,7 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
 <h2>🚀 Tecnologias utilizadas</h2>
 <ul>
   <li>Python</li>
-  <li>google colab(para executar comandos python)</li>
+  <li><a href="https://colab.research.google.com/">google colab(para executar comandos python)</a></li>
 </ul>
 <p>🔗<a href="https://raw.githubusercontent.com/alura-cursos/pandas-conhecendo-a-biblioteca/main/base-de-dados/aluguel.csv">Link da base de dados</a></p>
 <hr>  
@@ -49,7 +49,7 @@ Nessa base, nós vamos encontrar os valores dos aluguéis de cada imóvel, condo
   <ul>
     <li>Criar a coluna de descrição</li>
     <li>Criar a coluna possui_suite</li>
-    <p><strong>Descrição:</strong>strong> essa coluna deve possuir uma sumarização das principais informações dos imóveis que serão apresentadas no site: tipo de imóvel, bairro, quantidade de quartos e vagas de garagem;
+    <p><strong>Descrição:</strong> essa coluna deve possuir uma sumarização das principais informações dos imóveis que serão apresentadas no site: tipo de imóvel, bairro, quantidade de quartos e vagas de garagem;
     <strong>Possui_suite:</strong> essa deve ser uma coluna que informe apenas se o imóvel possui ou não suítes, sem se importar com a quantidade.</p>
   </ul>
  <br>
